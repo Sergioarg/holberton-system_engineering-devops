@@ -1,2 +1,2 @@
 #!/bin/bash
-perl -ne 'print if(++$x)%2'
+ls -l | cat -n | cut --characters=6- | grep -P "^[13579]"
