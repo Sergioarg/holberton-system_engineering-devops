@@ -21,7 +21,8 @@ You must first write to your Terminal `./` Following the name of the file you wa
 0|[_pwd_](./0-current_working_directory)| Print name of current/working directory.
 1|[_ls_](./1-listit)| List directory contents.
 2|[_cd_](./2-bring_me_home)| Change directory.
-3|[_ls -na_](./4-listmorefiles)| List files with more information.
+3|[_ls -l_](./3-listfiles)| List files whit long format.
+4|[_ls -na_](./4-listmorefiles)| List files with more information.
 5|[_ls -lna_](./5-listfilesdigitonly)| List files with more information.
 6|[_mkdir_](./6-firstdirectory)| Make Directory.
 7|[_mv_](./7-movethatfile)| Move (rename) files.
