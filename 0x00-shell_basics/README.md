@@ -1,5 +1,3 @@
-<img src="https://blog.desdelinux.net/wp-content/uploads/2019/01/bash-logo.jpg" high="" width="500">
-
 # Shell Basics
 
 _This repository contains executable files with basic commands in Bash._
