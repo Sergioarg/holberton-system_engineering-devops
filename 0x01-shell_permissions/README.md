@@ -1,6 +1,6 @@
 # Shell Permissions
 
-_This repository contains executable files with basic commands in Bash._
+_This repository contains executable files with commands related to permissions._
 
 ## ¿How to execute the files?
 
