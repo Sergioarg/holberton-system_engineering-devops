@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#  Bash script that configures an Ubuntu server.
+sed -i "s/8080/80" /etc/nginx/sites-enabled/default
+service nginx restart
