@@ -1,1 +1,1 @@
-# Project of wev infrastructure
+# Project of web infrastructure
